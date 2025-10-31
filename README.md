@@ -14,7 +14,6 @@ and then:
 ```sh
 ./rbf file.bf
 ```
-to run the code from standalone executable.
 ---
 available commands:
    - "," - read char to cell
