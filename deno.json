@@ -1,0 +1,15 @@
+{
+	"fmt": {
+		"options": {
+			"indentWidth": 4,
+			"useTabs": true
+		}
+	},
+	"tasks": {
+		"dev": "deno run --allow-read --allow-write ./src/main.ts",
+		"compile": "deno compile --allow-read --allow-write --output ./bin/bf ./src/main.ts"
+	},
+	"imports": {
+		"@std/assert": "jsr:@std/assert@1"
+	}
+}
