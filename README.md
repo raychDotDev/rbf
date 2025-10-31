@@ -1,7 +1,7 @@
 This is my little precious [brainfck](https://esolangs.org/wiki/Brainfuck) interpreter
----
+
 Install [deno.js](https://deno.com/).
----
+
 to just run some .bf file: 
 ```sh
 deno run dev [your_bf_file].bf
