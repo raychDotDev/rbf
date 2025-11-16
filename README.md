@@ -8,7 +8,7 @@ deno run dev [your_bf_file].bf
 ```
 to compile the interpreter:
 ```sh
-deno run dev [your_bf_file].bf
+deno run compile
 ```
 and then:
 ```sh
